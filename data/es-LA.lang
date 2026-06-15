@@ -1,0 +1,312 @@
+Español (Latinoamericano)
+
+// Main Menu
+images/mainmenu/menu_story_mode: "images/pt-BR/mainmenu/menu_story_mode"
+images/mainmenu/menu_credits: "images/pt-BR/mainmenu/menu_credits"
+
+// Difficulties
+difficulty_: ""
+
+difficulty_easy: "Fácil"
+difficulty_normal: "Normal"
+difficulty_hard: "Difícil"
+
+// Story Mode
+storyname_tutorial: "Tutorial"
+storyname_week1: "Daddy Dearest"
+storyname_week2: "Spooky Month"
+storyname_week3: "Pico"
+storyname_week4: "Mommy Must Murder"
+storyname_week5: "Red Snow"
+storyname_week6: "Hating Simulator ft. Moawling"
+storyname_week7: "Tankman"
+storyname_weekend1: "Due Debts"
+week_score: "PUNT. DE LA SEMANA: {1}"
+
+// Freeplay
+freeplay_tip: "Presiona ESPACIO para escuchar la Canción / Presiona CTRL para abrir el Menú de Modificadores / Presiona RESET para Reiniciar tu Puntuación."
+personal_best: "MEJOR PUNT.: {1} ({2}%)"
+
+musicplayer_playing: "ESCUCHANDO: {1}"
+musicplayer_paused: "ESCUCHANDO: {1} (PAUSADO)"
+musicplayer_tip: "Presiona ESPACIO para Pausar / Presiona ESCAPE para Salir / Presiona R para Reiniciar la Canción"
+
+// Gameplay Changers
+setting_scroll_type: "Tipo de Desplaz."
+setting_scroll_type-multiplicative: "Multiplicativo"
+setting_scroll_type-constant: "Constante"
+setting_scroll_speed: "Velocidad de Desplaz."
+setting_playback_rate: "Playback Rate"
+setting_health_gain_multiplier: "Mult. de Vida Ganada"
+setting_health_loss_multiplier: "Mult. de Vida Perdida"
+setting_instakill_on_miss: "Muerte por Fallo"
+setting_practice_mode: "Modo Práctica"
+setting_botplay: "Botplay"
+
+// loading
+now_loading: "Cargando{1}"
+
+// HUD
+rating_you_suck: "Borra el juego"
+rating_shit: "Mierda"
+rating_bad: "Malo"
+rating_bruh: "Bruh"
+rating_meh: "Meh"
+rating_nice: "Bien"
+rating_good: "Muy Bien"
+rating_great: "Genial"
+rating_sick: "Fantástico!"
+rating_perfect: "Perfecto!!"
+
+botplay: "Botplay"
+
+clear: "Pasable"
+sdcb: "Fallo de un solo dígito"
+fc: "Combo Completo"
+gfc: "Buen Combo Completo"
+sfc: "Combo Perfecto"
+
+score_text: "Puntuación: {1} | Fallos: {2} | Clasificación: {3}"
+score_text_instakill: "Puntuación: {1} | Clasificación: {2}"
+
+// Pause Menu
+blueballed: "Muelto: {1}"
+practice_mode: "Modo Práctica"
+charting_mode: "Modo Editor"
+
+pause_resume: "Volver al juego"
+pause_leave_charting_mode: "Salir del Modo Editor"
+pause_skip_time: "Saltar Hasta"
+pause_end_song: "Terminar Canción"
+pause_toggle_practice_mode: "Habilitar Modo Prática"
+pause_toggle_botplay: "Habilitar Botplay"
+pause_restart_song: "Reiniciar canción"
+pause_change_difficulty: "Cambiar dificultad"
+pause_options: "Opciones"
+pause_exit_to_menu: "Salir al menú"
+
+// Options
+options_note_colors: "Colorear Notas"
+options_controls: "Controles"
+options_adjust_delay_and_combo: "Ajustar Retraso y Combo"
+options_graphics: "Gráficos"
+options_visuals: "Visuales"
+options_gameplay: "Juego"
+options_language: "Idioma"
+
+// Options-Note Colors
+note_colors_tip: "Presiona RESET para Reiniciar la Parte de la Nota Seleccionada."
+note_colors_shift: "Shift"
+note_colors_lb: "Bumper Izq."
+note_colors_hold_tip: "Manten {1} + Presiona la tecla RESET para reiniciar por completo la nota seleccionada."
+
+// Options-Controls
+controls_rebinding: "Configurando {1}"
+controls_rebinding2: "Manten ESC para Cancelar\nManten Backspace para Borrar"
+reset_to_default_keys: "Teclas Predeterminadas"
+
+keygroup_NOTES: "NOTAS"
+key_note_left: "Izq."
+key_note_down: "Abajo"
+key_note_up: "Arriba"
+key_note_right: "Der."
+
+keygroup_UI: "INTERFAZ"
+key_ui_left: "Izq."
+key_ui_down: "Abajo"
+key_ui_up: "Arriba"
+key_ui_right: "Der."
+key_reset: "Reiniciar"
+key_accept: "Aceptar"
+key_back: "Atrás"
+key_pause: "Pausa"
+
+keygroup_VOLUME: "VOLUMEN"
+key_volume_mute: "Silenciar"
+key_volume_up: "Arriba"
+key_volume_down: "Abajo"
+
+keygroup_DEBUG: "DEBUG"
+key_debug_1: "Tecla 1"
+key_debug_2: "Tecla 2"
+
+// Options-Adjust Delay and Combo
+delay_beat_hit: "Beat Hit!"
+combo_rating_offset: "Posición de la Calificación:"
+combo_numbers_offset: "Posición de los Números:"
+delay_current_offset: "Retraso Actual: {1} ms"
+combo_offset: "Posición del Combo"
+note_delay: "Retraso de Nota/Beat"
+switch_on_accept: "(Presiona Aceptar para Cambiar)"
+switch_on_start: "(Presiona Start para Cambiar)"
+
+// Options-Graphics
+graphics_menu: "Configuración Gráfica"
+
+setting_low_quality: "Baja Calidad"
+description_low_quality: "Si es marcado, elimina algunos detalles del fondo,\nreduce los tiempos de carga y mejora el rendimiento."
+
+setting_anti-aliasing: "Anti-Aliasing"
+description_anti-aliasing: "Si es desmarcado, deshabilita el anti-aliasing, mejora el rendimiento\na coste de visuales mas pixelados."
+
+setting_shaders: "Sombreadores"
+description_shaders: "Si es desmarcado, deshabilita los sombreadores.\nSon usados para algunos efectos visuales, y consume más CPU en PCs débiles."
+
+setting_gpu_caching: "Almacienamiento en GPU"
+description_gpu_caching: "Si es marcado, permite que la GPU sea usada para almacenar texturas, reduciendo el uso de RAM.\nNo actives esto si tienes una Tarjeta Gráfica de mierda."
+
+setting_framerate: "Framerate"
+description_framerate: "No tengo que explicar qué es esto, ¿verdad?"
+
+// Options-Visuals
+visuals_menu: "Configuración Visual"
+
+setting_note_skins: "Estilo de Notas:"
+setting_note_skins-default: "Por Defecto"
+setting_note_skins-future: "Futurista"
+setting_note_skins-chip: "Ficha"
+description_note_skins: "Selecciona tu Estilo de Nota favorito."
+
+// --no voy a llamar esta pendejada "Salpicadura", ese nombre es una puta mierda
+// válido, se la salpico a toda la nota digo qué
+setting_note_splashes: "Explosión de Nota:"
+setting_note_splashes-psych: "Psych"
+setting_note_splashes-diamond: "Diamante"
+setting_note_splashes-electric: "Eléctrico"
+setting_note_splashes-sparkles: "Chispas"
+setting_note_splashes-vanilla: "Original"
+description_note_splashes: "Selecciona tu Explosión de Nota preferida o simplemente deshabilítalo."
+
+setting_note_splash_opacity: "Opacidad de Explosión"
+description_note_splash_opacity: "¿Qué tan transparentes deberian ser las Explosiones de Nota?"
+
+setting_hide_hud: "Ocultar HUD"
+description_hide_hud: "Si es marcado, oculta casi todos los elementos del HUD."
+
+setting_time_bar: "Barra de Tiempo:"
+setting_time_bar-time_left: "Restante"
+setting_time_bar-time_elapsed: "Transcurrido"
+setting_time_bar-song_name: "Nombre (Canción)"
+setting_time_bar-disabled: "Desactivada"
+description_time_bar: "¿Qué debería mostrar la Barra de Tiempo?"
+
+setting_flashing_lights: "Luces Parpadeantes"
+description_flashing_lights: "¡Deshabilita esto si eres sensible a las luces parpadeantes!"
+
+setting_camera_zooms: "Acercamientos de Cámara"
+description_camera_zooms: "Si es desmarcado, la cámara no se acercará en un beat."
+
+setting_score_text_grow_on_hit: "Agrandado del Texto de Punt."
+description_score_text_grow_on_hit: "Si es desmarcado, el Texto de Puntuación dejará de \nagrandarce cada vez que presiones una nota."
+
+setting_health_bar_opacity: "Opacidad de la Barra de Vida"
+description_health_bar_opacity: "¿Qué tan transparentes deben ser la Barra de vida y los Íconos?"
+
+setting_fps_counter: "Contador de FPS"
+description_fps_counter: "Si es desmarcado, esconde el Contador de FPS."
+
+setting_pause_music: "Canción para Pausa:"
+setting_pause_music-none: "Ninguna"
+description_pause_music: "¿Qué Canción prefieres para el Menú de Pausa?"
+
+// --quien carajos espera una actu de psych, esta cosa ya ni se actualiza
+// ^ (literalmente)
+setting_check_for_updates: "Buscar Actualizaciones"
+description_check_for_updates: "En builds oficiales de Psych Engine, marque esta opción para\navisar sobre actualizaciones al iniciar el juego."
+
+setting_discord_rich_presence: "Discord Rich Presence"
+description_discord_rich_presence: "Deshabilita esto para prevenir filtraciones accidentales, esto escondera la Aplicación del estado "Jugando a:" en Discord."
+
+setting_combo_stacking: "Apilación de Combo"
+description_combo_stacking: "Si está desmarcado, la Calificación y el Combo no se apilarán, bajando la Memoria del Sistema y haciéndolos más fáciles de entender"
+
+// Options-Gameplay
+gameplay_menu: "Configuración del Juego"
+
+setting_downscroll: "Downscroll"
+description_downscroll: "Si es marcado, las notas iran Abajo en vez de ir Arriba, bastante simple."
+
+setting_middlescroll: "Middlescroll"
+description_middlescroll: "Si es marcado, tus notas estarán en el centro."
+
+setting_opponent_notes: "Notas del Oponente"
+description_opponent_notes: "Si es desmarcado, las notas del oponente serán escondidas."
+
+setting_ghost_tapping: "Ghost Tapping"
+description_ghost_tapping: "Si es marcado, no recibirás fallos por presionar teclas\ncuando no haya notas para presionar."
+
+setting_auto_pause: "Pausa Automática"
+description_auto_pause: "Si es marcado, el juego automáticamente se pausa si la ventana no es el foco principal."
+
+setting_disable_reset_button: "Deshabilitar el Boton de Reiniciar"
+description_disable_reset_button: "Si es marcado, presionar Reiniciar no hara nada."
+
+setting_sustains_as_one_note: "Notas Largas como una sola"
+description_sustains_as_one_note: "Si es marcado, las Notas Largas no pueden ser presionadas si fallas,\n y cuentan como una sola Nota/Fallo.\n Desmarca esto si prefieres el viejo Sistema de Notas."
+
+setting_hitsound_volume: "Hitsound Volume"
+description_hitsound_volume: "Las notas hacen un \"Tick!\" chistoso cuando las presionas."
+
+setting_rating_offset: "Retraso de Calificación"
+description_rating_offset: "Cambia qué tan tarde/pronto tienes que presionar para un "Sick!"\nValores más altos significa que tienes que presionar más tarde."
+
+setting_sick_hit_window: "Ventana para Calific. Sick!"
+description_sick_hit_window: "Cambia la cantidad de tiempo que tienes\npara presionar "Sick!" en milisegundos."
+
+setting_good_hit_window: "Ventana para Calific. Good"
+description_good_hit_window: "Cambia la cantidad de tiempo que tienes\npara presionar "Good" en milisegundos."
+
+setting_bad_hit_window: "Ventana para Calific. Bad"
+description_bad_hit_window: "Cambia la cantidad de tiempo que tienes\npara presionar "Bad" en milisegundos."
+
+setting_safe_frames: "Frames Seguros"
+description_safe_frames: "Cambia cuantos frames tienes para\npresionar una nota antes o después."
+
+// Achievements
+achievement_: ""
+description_: ""
+
+achievement_friday_night_play: "Freaky on a Friday Night"
+description_friday_night_play: "Play on a Friday... Night."
+achievement_week1_nomiss: "She Calls Me Daddy Too"
+description_week1_nomiss: "Beat Week 1 on Hard with no Misses."
+achievement_week2_nomiss: "No More Tricks"
+description_week2_nomiss: "Beat Week 2 on Hard with no Misses."
+achievement_week3_nomiss: "Call Me The Hitman"
+description_week3_nomiss: "Beat Week 3 on Hard with no Misses."
+achievement_week4_nomiss: "Lady Killer"
+description_week4_nomiss: "Beat Week 4 on Hard with no Misses."
+achievement_week5_nomiss: "Missless Christmas"
+description_week5_nomiss: "Beat Week 5 on Hard with no Misses."
+achievement_week6_nomiss: "Highscore!!"
+description_week6_nomiss: "Beat Week 6 on Hard with no Misses."
+achievement_week7_nomiss: "God Effing Damn It!"
+description_week7_nomiss: "Beat Week 7 on Hard with no Misses."
+achievement_ur_bad: "What a Funkin' Disaster!"
+description_ur_bad: "Complete a Song with a rating lower than 20%."
+achievement_ur_good: "Perfectionist"
+description_ur_good: "Complete a Song with a rating of 100%."
+achievement_roadkill_enthusiast: "Roadkill Enthusiast"
+description_roadkill_enthusiast: "Watch the Henchmen die 50 times."
+achievement_oversinging: "Oversinging Much...?"
+description_oversinging: "Sing for 10 seconds without going back to Idle."
+achievement_hype: "Hyperactive"
+description_hype: "Finish a Song without going back to Idle."
+achievement_two_keys: "Just the Two of Us"
+description_two_keys: "Finish a Song pressing only two keys."
+achievement_toastie: "Toaster Gamer"
+description_toastie: "Have you tried to run the game on a toaster?"
+achievement_debugger: "Debugger"
+description_debugger: "Beat the \"Test\" Stage from the Chart Editor."
+
+reset_achievement: "Reiniciar Logros:"
+yes: "Sí"
+no: "No"
+
+// Mod Menu
+reload_button: "RECARGAR"
+enable_all_button: "ACTIVAR TODO"
+disable_all_button: "DESACTIVAR TODO"
+no_mods_installed: "NO HAY MODS INSTALADOS\nPRESIONA ATRAS PARA SALIR O INSTALA UN MOD"
+no_mods_found: "Ningún Mod encontrado."
+mod_restart: "* Mover o Activar/Desactivar este Mod reiniciará el juego."
