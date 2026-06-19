@@ -126,7 +126,7 @@ delay_beat_hit: "Beat Hit!"
 delay_current_offset: "延遲: {1} ms";
 combo_rating_offset: "評分 Offset:"
 combo_numbers_offset: "數字 Offset:"
-combo_offset: "連撃 Offset";
+combo_offset: "連擊 Offset";
 note_delay: "Note/節拍延遲";
 switch_on_accept: "(按 Accept 鍵切換)"
 switch_on_start: "(按 Start 按鈕切換)"
